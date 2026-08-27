@@ -1,7 +1,7 @@
 {
-  "latest_version": "0.1.1",
-  "min_supported_version": "0.1.1",
-  "changelog": "Первый релиз приложения",
+  "latest_version": "0.1.2",
+  "min_supported_version": "0.1.2",
+  "changelog": "Исправлены баги",
   "force_update": true,
   "urls": {
     "rustore": "",
