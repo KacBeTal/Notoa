@@ -1,11 +1,11 @@
 {
-  "latest_version": "0.1.5",
-  "min_supported_version": "0.1.5",
+  "latest_version": "0.2.0",
+  "min_supported_version": "0.2.0",
   "changelog": "Исправлены баги all",
   "force_update": true,
   "urls": {
     "rustore": "",
     "google_play": "",
-    "direct_apk": "https://github.com/KacBeTal/Notoa/releases/download/0.1.5/0.1.5.apk"
+    "direct_apk": "https://github.com/KacBeTal/Notoa/releases/download/0.2.0/0.2.0.apk"
   }
 }
