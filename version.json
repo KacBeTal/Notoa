@@ -10,7 +10,8 @@
   "urls": {
     "rustore": "",
     "google_play": "",
-    "direct_apk": "https://github.com/KacBeTal/Notoa/releases/download/0.5.0/0.5.0.apk"
+    "direct_apk": "https://github.com/KacBeTal/Notoa/releases/download/0.5.0/0.5.0.apk",
+    "softonic.com": ""
   },
   "check_interval_hours": 10
 }
