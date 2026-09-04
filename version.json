@@ -8,7 +8,7 @@
     "message": "Технические работы, попробуйте позже"
   },
   "urls": {
-    "rustore": "",
+    "rustore": "https://www.rustore.ru/catalog/app/app.blocknot.offline",
     "google_play": "",
     "direct_apk": "https://github.com/KacBeTal/Notoa/releases/download/1.0.0/1.0.0.apk"
   },
