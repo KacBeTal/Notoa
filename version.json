@@ -1,6 +1,6 @@
 {
-  "latest_version": "0.5.0",
-  "min_supported_version": "0.5.0",
+  "latest_version": "1.0.0",
+  "min_supported_version": "1.0.0",
   "changelog": "Исправлены баги all",
   "force_update": true,
   "maintenance": {
@@ -10,8 +10,8 @@
   "urls": {
     "rustore": "",
     "google_play": "",
-    "direct_apk": "https://github.com/KacBeTal/Notoa/releases/download/0.5.0/0.5.0.apk",
-    "softonic.com": ""
+    "direct_apk": "https://github.com/KacBeTal/Notoa/releases/download/1.0.0/1.0.0.apk",
+    "softonic.com": "https://claude.ai/"
   },
   "check_interval_hours": 10
 }
