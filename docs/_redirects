@@ -1,0 +1,5 @@
+# Netlify / Cloudflare Pages
+/index.html    /           301
+/privacy.html  /privacy    301
+/terms.html    /terms      301
+/*             /index.html 200

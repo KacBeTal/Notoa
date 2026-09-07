@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Notoria</title>
+    <meta name="robots" content="noindex" />
+    <script>
+      // GitHub Pages / статический хостинг без rewrite-правил:
+      // запоминаем запрошенный путь и отправляем на корень, где приложение его восстановит.
+      (function () {
+        var path = location.pathname.replace(/\.html$/, "").replace(/\/index$/, "/");
+        sessionStorage.setItem("notoria:redirect", path + location.search + location.hash);
+        location.replace("/");
+      })();
+    </script>
+    <style>
+      body { margin: 0; background: #f6f1e6; color: #83796a; font: 14px/1.5 -apple-system, sans-serif; display: grid; place-items: center; min-height: 100vh; }
+    </style>
+  </head>
+  <body>
+    <noscript>Перенаправление… <a href="/">Перейти на главную</a></noscript>
+  </body>
+</html>
