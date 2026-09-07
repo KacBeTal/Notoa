@@ -1,7 +1,7 @@
 {
   "latest_version": "1.1.2",
   "min_supported_version": "1.0.0",
-  "changelog": "Bug fix",
+  "changelog": "Bug fixing",
   "force_update": true,
   "maintenance": {
     "enabled": false,
