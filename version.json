@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.1.0",
+  "latest_version": "1.1.2",
   "min_supported_version": "1.0.0",
   "changelog": "Support for three new interface languages has been added. Data import and export functionality has been implemented. The security system has been updated. Identified errors in the application’s operation have been fixed.",
   "force_update": true,
@@ -10,7 +10,7 @@
   "urls": {
     "rustore": "https://www.rustore.ru/catalog/app/app.blocknot.offline",
     "google_play": "",
-    "direct_apk": "https://github.com/KacBeTal/Notoa/releases/download/1.1.0/1.1.0.apk"
+    "direct_apk": "https://github.com/KacBeTal/Notoa/releases/download/1.1.1/1.1.1.apk"
   },
   "check_interval_hours": 3
 }
