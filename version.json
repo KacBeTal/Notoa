@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.1.1",
+  "latest_version": "1.1.2",
   "min_supported_version": "1.0.0",
-  "changelog": "Bug fixing",
+  "changelog": "Synchronization errors with the cloud have been fixed. Export files with the name in the header. Updated the update menu. Fixed visual bugs.",
   "force_update": true,
   "maintenance": {
     "enabled": false,
@@ -10,7 +10,7 @@
   "urls": {
     "rustore": "https://www.rustore.ru/catalog/app/app.blocknot.offline",
     "google_play": "",
-    "direct_apk": "https://github.com/KacBeTal/Notoa/releases/download/1.1.1/1.1.1.apk"
+    "direct_apk": "https://github.com/KacBeTal/Notoa/releases/download/1.1.2/1.1.2.apk"
   },
   "check_interval_hours": 3
 }
