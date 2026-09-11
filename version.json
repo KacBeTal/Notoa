@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.1.2",
+  "latest_version": "1.2.0",
   "min_supported_version": "1.1.0",
   "changelog": "The app’s customization has been expanded. The search for notes has been significantly improved: now it finds individual words and mentions. An interval between paragraphs has been added. A function for searching and replacing text in notes has been added. The ability to hide tags and the toolbar has been added. Bugs and issues have been fixed.",
   "force_update": true,
@@ -10,7 +10,7 @@
   "urls": {
     "rustore": "https://www.rustore.ru/catalog/app/app.blocknot.offline",
     "google_play": "",
-    "direct_apk": "https://github.com/KacBeTal/Notoa/releases/download/1.1.2/1.1.2.apk"
+    "direct_apk": "https://github.com/KacBeTal/Notoa/releases/download/1.2.0/1.2.0.apk"
   },
   "check_interval_hours": 3
 }
